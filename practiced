@@ -51,6 +51,13 @@
 
 <p>
    &quot;Lorem ipsum dolor, sit amet consectetur adipisicing elit. Praesentium in autem incidunt porro cum voluptatibus quae possimus perferendis, quas ipsum laudantium aut odio adipisci. Omnis, necessitatibus? Consectetur quod illo corrupti?&quot;</p>
+
+
+    <a href="/index.html" target="_blank" title="old work">Linked Internally</a>
+
+    <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files" target="_blank" title='mdn' >External Link</a>
+   <br>
+   <br>
     <footer>
         Arslan &copy;  All rights are reserved
     </footer>
