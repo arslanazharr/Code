@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Practice Site</title>
+</head>
+<body>
+
+    <header style="background: blue ;">
+        This is the header
+    </header>
+    
+    <p>Hi this is my first paragraph </p>
+
+    <p>Now I'm going to use sementic tags</p>
+<hr>
+    <h1>There you GO!</h1>
+
+    <section>
+        <b>Section 1</b>
+        <article>Blog 1</article>
+        <article>Blog 2</article>
+        <article>Blog 3</article>
+    </section>
+
+    <section>
+        <b>Section 2</b> 
+        <article>Blog 4</article>
+        <article>Blog 5</article>
+        <article>Blog 6</article>
+    </section>
+
+    <aside>These blogs were very useful and informative.</aside>
+<br> <hr>
+
+<p>Now I'm going to practice Lists.</p>
+
+<ol>
+    <li>Snooker</li>
+    <li>Cricket</li>
+    <li>Basket Ball</li>
+    <li>Video Games</li>
+    <ul>
+      <li>Taken</li>  
+      <li>GTA</li>  
+      <li>COD</li>  
+    </ul>
+</ol>
+
+<p>
+   &quot;Lorem ipsum dolor, sit amet consectetur adipisicing elit. Praesentium in autem incidunt porro cum voluptatibus quae possimus perferendis, quas ipsum laudantium aut odio adipisci. Omnis, necessitatibus? Consectetur quod illo corrupti?&quot;</p>
+    <footer>
+        Arslan &copy;  All rights are reserved
+    </footer>
+
+    
+</body>
+</html>
