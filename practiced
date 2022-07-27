@@ -56,6 +56,45 @@
     <a href="/index.html" target="_blank" title="old work">Linked Internally</a>
 
     <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files" target="_blank" title='mdn' >External Link</a>
+
+<h4>Lets talk about sections</h4>
+
+<Section>
+<ul>
+<li><a href="#section1">Section 1</a> </li>
+<li><a href="#section2">Section 2</a> </li>
+<li><a href="#section3">Section 3</a> </li>
+<li><a href="#section4">Section 4</a> </li>
+<li><a href="#section5">Section 5</a> </li>
+<li><a href="#section6">Section 6</a> </li>
+</ul>
+</Section>
+
+<Section id="section1">
+    <h4>Section 1</h4>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur adipisci sequi veritatis, nulla facilis distinctio dolore laboriosam eius natus fugiat amet excepturi dolores exercitationem? Nobis fugiat quo unde iusto fuga?</p>
+</Section>
+
+<section id="section6">
+    <h4>Section 6</h4>
+<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eos vel recusandae nulla! Ratione ullam, repellat aperiam error sint dolor exercitationem adipisci est vero vel earum, dolores cum ipsa perspiciatis voluptatum quae praesentium. Officiis, velit magni! Exercitationem blanditiis libero molestias quis harum unde fugiat eaque repudiandae laudantium placeat. Libero fugit dolorum consectetur distinctio, modi, incidunt optio id blanditiis quisquam laborum aperiam ea eveniet sed necessitatibus totam, vitae quam! Eos molestiae eius velit reprehenderit facere error voluptatibus necessitatibus ipsa dicta amet consectetur atque labore ex, dolorum iusto iure natus quod sint quibusdam numquam reiciendis rem non laboriosam? Voluptatibus omnis exercitationem dolores possimus veniam consequuntur numquam blanditiis itaque. Quibusdam nesciunt voluptatem voluptates neque sapiente illo doloremque obcaecati blanditiis, veniam repellat tempore harum minima labore, commodi eos eligendi ducimus praesentium. Quae, iste! Quas a ducimus voluptas tempore, beatae deserunt nihil adipisci mollitia vel praesentium deleniti itaque nostrum ratione? Sint velit iste omnis alias culpa cumque voluptatibus quis quaerat dicta a mollitia fuga earum ea quos unde, nemo ratione et est veritatis placeat odit corporis fugiat voluptatum eaque. Doloremque alias veniam temporibus? Cumque laboriosam asperiores reprehenderit ab tenetur earum fugit qui sapiente repellat sed sunt eos iusto cupiditate excepturi rem ipsa ipsam a placeat modi, doloremque quas. Pariatur sequi aliquam fugit molestiae quaerat. Ipsa vero, ut non qui aliquid sed dolores veritatis cupiditate dolore reprehenderit ducimus? Nemo cupiditate, temporibus eos impedit dolor rerum aliquid, unde architecto delectus modi id, expedita quis facere? Doloribus quibusdam, saepe ex consequuntur ab quo!</p>
+</section>
+
+<p>
+    <img src="/images/bmw.jpg" title="BMW S1000RR 2021" width="300" alt="BMW S1000RR bike"> 
+ <div>
+    &quot;Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laboriosam nobis esse aperiam hic autem quod unde excepturi odit voluptatum fuga beatae ratione modi cum, natus praesentium, vel temporibus placeat mollitia.&quot;
+ </div>   
+</p>
+
+<p>
+    <img src="https://www.webbikeworld.com/wp-content/uploads/2022/07/2022-BMW-S1000RR-1-1521x760.jpg" title="BMW S1000RR 2021 Online" width="300" alt="BMW Bike">
+    <div>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste temporibus magnam praesentium vitae blanditiis ab quia fugiat, quibusdam quam nisi itaque sit impedit in, et excepturi similique dolores, ex ipsum.
+    </div>
+</p>
+
+
    <br>
    <br>
     <footer>
