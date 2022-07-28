@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="css/style.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Practice Site</title>
+</head>
+<body>
+
+    <header style="background: blue ;">
+        This is the header
+    </header>
+    
+    <p>Hi this is my first paragraph </p>
+
+    <p>Now I'm going to use sementic tags</p>
+<hr>
+    <h1>There you GO!</h1>
+
+    <section>
+        <b>Section 1</b>
+        <article>Blog 1</article>
+        <article>Blog 2</article>
+        <article>Blog 3</article>
+    </section>
+
+    <section>
+        <b>Section 2</b> 
+        <article>Blog 4</article>
+        <article>Blog 5</article>
+        <article>Blog 6</article>
+    </section>
+
+    <aside>These blogs were very useful and informative.</aside>
+<br> <hr>
+
+<p>Now I'm going to practice Lists.</p>
+
+<ol>
+    <li>Snooker</li>
+    <li>Cricket</li>
+    <li>Basket Ball</li>
+    <li>Video Games</li>
+    <ul>
+      <li>Taken</li>  
+      <li>GTA</li>  
+      <li>COD</li>  
+    </ul>
+</ol>
+
+<p>
+   &quot;Lorem ipsum dolor, sit amet consectetur adipisicing elit. Praesentium in autem incidunt porro cum voluptatibus quae possimus perferendis, quas ipsum laudantium aut odio adipisci. Omnis, necessitatibus? Consectetur quod illo corrupti?&quot;</p>
+
+
+    <a href="/index.html" target="_blank" title="old work">Linked Internally</a>
+
+    <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files" target="_blank" title='mdn' >External Link</a>
+   <br>
+   <br>
+    <footer>
+        Arslan &copy;  All rights are reserved
+    </footer>
+
+    
+</body>
+</html>
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="css/style.css">
+<meta charset="utf-8">
+<title>Simple Selectors</title>
+</head>
+
+<body>
+
+<h1>Welcome to my Website</h1>
+
+<h2>Here we will learn about HTML and CSS</h2>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus amet alias est? Nobis cum quasi at soluta odit, maiores quaerat dolores expedita ex nemo ea repellendus dolorem sed maxime quos?</p>
+<p >Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+<h2>How was it? Interesting?</h2>
+<p>Lorem ipsum dolor sit amet, <span class="new-text">consectetur adipisicing elit</span> consectetur adipisicing elit. Eligendi nemo ipsum dolores vel modi magnam veniam alias at nam. Voluptatem officiis dolor dolorem aspernatur dolorum modi ipsa, nobis animi aut!</p>
+<div>This is the main point of the entire article. So, attribute</div>
+
+</body>
+</html>
