@@ -1,0 +1,21 @@
+h5 { 
+    font-size: x-large;
+    text-align: left;
+}
+
+.header {
+    padding: 60px;
+    text-align: center;
+    background-color: rgb(45, 147, 206);
+    color: white;
+    font-size: 30px;
+}
+
+.first-heading {
+    font-size: xx-large;
+    background-color: crimson;
+    color: white;
+    padding: 10px;
+}
+
+    
